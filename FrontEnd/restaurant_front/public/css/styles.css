@@ -1,0 +1,15 @@
+ul.customer-component-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+li.customer-component-item {
+  display: inline;
+}
+
+div.customer-component {
+  margin: 2000px;
+  padding: 10px;
+  width: 300px;
+  border: 1px solid black;
+}
